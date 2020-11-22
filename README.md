@@ -70,7 +70,7 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyclades1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-## I’m currently working on ...
+## 🔧  I’m currently working on ...
 
 <a href="https://github.com/cyclades1/Rental">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyclades1&repo=Rental&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -87,7 +87,7 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
 
 [![Twitter][1.2]][1]  [![LinkedIn][3.2]][3]
 
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 
 <!-- links to social media icons -->
 
