@@ -1,6 +1,9 @@
 # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
+My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from India, living in Varanasi and currently working on some personal projects. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+
 <a target="_blank" href="https://github.com/cyclades1"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/abhishek-dubey-32642917b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="https://medium.com/@ankitkp88534"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
