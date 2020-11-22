@@ -5,8 +5,6 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
 
 
 <a target="_blank" href="https://github.com/cyclades1"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/abhishek-dubey-32642917b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="https://medium.com/@ankitkp88534"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=cyclades1.cyclades1" height=29>
 
 
@@ -14,8 +12,6 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
 ## I’m currently learning ...
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
@@ -29,18 +25,9 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
 
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
 ## 👯 I’m looking to collaborate on ...
 
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -85,9 +72,10 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
 
 ## 💬 How to reach me ...
 
-[![Twitter][1.2]][1]  [![LinkedIn][3.2]][3]
+[![Twitter][1.1]][1]  [![LinkedIn][3.2]][3]
 
--  Fun fact: ...
+##  Fun fact: ...
+- I love cats more than dogs, and octocat too.
 
 <!-- links to social media icons -->
 
