@@ -57,7 +57,7 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
 [![Twitter][1.1]][1]  [![LinkedIn][3.2]][3]
 
 ##  Fun fact: ...
-- I love cats more than dogs, and octocat too.
+- I love cats, dogs and octocat too.
 
 <!-- links to social media icons -->
 
