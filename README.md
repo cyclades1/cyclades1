@@ -46,8 +46,8 @@ My name is Abhishek Kumar Dubey and I'm a software developer engineer. I'm from 
 </a>
 
 
-<a href="https://github.com/cyclades1/filmwhere">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyclades1&repo=filmwhere&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/cyclades1/Blogman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyclades1&repo=Blogman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
