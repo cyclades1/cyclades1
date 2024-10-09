@@ -14,7 +14,6 @@ My name is Abhishek Kumar Dubey and I'm a Software Engineer from India. I am cur
 
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-DevOps-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 
