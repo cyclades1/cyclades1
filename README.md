@@ -5,7 +5,7 @@ My name is Abhishek Kumar Dubey and I'm a Software Engineer from India. I am cur
 
 
 <a target="_blank" href="https://github.com/cyclades1"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=cyclades1.cyclades1" height=29>
+
 
 
 
